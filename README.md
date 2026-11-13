@@ -10,20 +10,18 @@
 
 | Project | Description | Technologies |
 |---|---|---|
-| [ClassVitals](https://github.com/chetanvhsk-wq) | IoT-based smart classroom attendance and monitoring system | C++, Arduino |
-| [PaceFuel](https://github.com/chetanvhsk-wq) | AI-powered health, fitness and nutrition platform | AI, Web Technologies |
-| [RailBook](https://github.com/chetanvhsk-wq/RailBook) | Java Swing railway reservation application with an interactive seat map | Java, Java Swing |
+| [Classmark](https://github.com/chetanvhsk-wq/classmark-attendance) | Local-first student attendance tracker PWA and Android app with Firebase cloud sync and Gemini AI timetable parsing | JavaScript, Firebase, Node.js, Capacitor |
+| [ClassVitals](https://github.com/chetanvhsk-wq/ClassVitals) | IoT-based smart classroom attendance and monitoring system | C++, Arduino |
+| [PaceFuel](https://github.com/chetanvhsk-wq/pace-fuel-main) | AI-powered health, fitness, and nutrition platform | AI, Web Technologies |
+| [RailBook](https://github.com/chetanvhsk-wq/RailBook) | Railway reservation application with an interactive seat map | Java, Java Swing |
 
 ---
 
-## 💻 Tech Interests
+## 💻 Tech Interests & Skills
 
-- Software Development
-- Java Programming
-- Data Structures & Algorithms
-- Data Analytics
-- Artificial Intelligence
-- Internet of Things (IoT)
+- **Domains:** Software Development, Artificial Intelligence, Data Analytics, Internet of Things (IoT)
+- **Languages:** Java, C++, JavaScript
+- **Tools & Tech:** Firebase, Node.js, Arduino, Capacitor
 
 ---
 
@@ -47,5 +45,5 @@
 ---
 
 <p align="center">
-  <i>Always learning, building and exploring technology.</i>
+  <i>Always learning, building, and exploring technology.</i>
 </p>
