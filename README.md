@@ -45,14 +45,14 @@ Building practical projects across web apps, AI, and connected devices.
 ### Tools I use
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <a href="https://github.com/chetanvhsk-wq/RailBook" title="Java project: RailBook"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java — RailBook" /></a>
+  <a href="https://github.com/chetanvhsk-wq/ClassVitals" title="C++ project: ClassVitals"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++ — ClassVitals" /></a>
+  <a href="https://github.com/chetanvhsk-wq/classmark-attendance" title="JavaScript project: Classmark"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111" alt="JavaScript — Classmark" /></a>
+  <a href="https://github.com/chetanvhsk-wq/pace-fuel-main" title="TypeScript project: PaceFuel"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript — PaceFuel" /></a>
+  <a href="https://github.com/chetanvhsk-wq/pace-fuel-main" title="React project: PaceFuel"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React — PaceFuel" /></a>
+  <a href="https://github.com/chetanvhsk-wq/classmark-attendance" title="Firebase project: Classmark"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111" alt="Firebase — Classmark" /></a>
+  <a href="https://github.com/chetanvhsk-wq/ClassVitals" title="Arduino project: ClassVitals"><img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino — ClassVitals" /></a>
+  <a href="https://github.com/chetanvhsk-wq/classmark-attendance" title="Git project: Classmark"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git — Classmark" /></a>
 </p>
 
 ---
