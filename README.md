@@ -55,15 +55,6 @@ Building practical projects across web apps, AI, and connected devices.
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### GitHub at a glance
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chetanvhsk-wq&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanvhsk-wq&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=chetanvhsk-wq&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-</div>
-
 ---
 
 <div align="center">
