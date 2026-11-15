@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/chetanvenugopala"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/chetanvhsk-wq"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:chetanv.hsk@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://portfolio-beta-gilt-29.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-Click%20to%20visit-7d84ef?style=for-the-badge&logo=vercel&logoColor=white&labelColor=242426" alt="Explore my portfolio" /></a>
 </p>
 
 **Computer Science & Engineering student at CMR University, Bengaluru**  
