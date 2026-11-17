@@ -4,9 +4,9 @@
 
 <p>
   <a href="https://www.linkedin.com/in/chetanvenugopala"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://portfolio-beta-gilt-29.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-7d84ef?style=for-the-badge&logo=vercel&logoColor=white&labelColor=242426" alt="Portfolio" /></a>
   <a href="https://github.com/chetanvhsk-wq"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:chetanv.hsk@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://portfolio-beta-gilt-29.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-Click%20to%20visit-7d84ef?style=for-the-badge&logo=vercel&logoColor=white&labelColor=242426" alt="Explore my portfolio" /></a>
 </p>
 
 **Computer Science & Engineering student at CMR University, Bengaluru**  
@@ -19,41 +19,43 @@ Building practical projects across web apps, AI, and connected devices.
 ### About me
 
 - 🎓 Studying Computer Science & Engineering at **CMR University**
-- 🧩 Interested in **software development, AI, data, and IoT**
-- 🌱 Currently strengthening **data structures, algorithms, and Java**
-- 🛠️ I like turning everyday problems into tools people can actually use
+- 🧩 Interested in **full-stack development, AI, data, and IoT**
+- 🌱 Currently strengthening **C, Python, data structures, algorithms, and Java**
+- 🛠️ I enjoy turning everyday problems into practical software and hardware projects
 
 ### Things I've built
 
 | Project | What it does | Stack |
 |:--|:--|:--|
-| [**Classmark**](https://github.com/chetanvhsk-wq/classmark-attendance) | Attendance tracker with skip/attend planning, offline-first use, Android support, and optional account sync | JavaScript · Firebase · Capacitor |
-| [**PaceFuel**](https://github.com/chetanvhsk-wq/pace-fuel-main) | Wellness app for food, training, and recovery, with AI-assisted features | React · TypeScript · Firebase · Gemini |
-| [**ClassVitals**](https://github.com/chetanvhsk-wq/ClassVitals) | RFID-gated classroom occupancy and sensor monitoring prototype | C++ · Arduino · RFID |
-| [**RailBook**](https://github.com/chetanvhsk-wq/RailBook) | Java Swing railway booking app with a clickable seat map and fare calculation | Java · Swing |
+| [**Classmark**](https://github.com/chetanvhsk-wq/classmark-attendance) | Local-first attendance tracker with skip/attend planning, Android support, export tools, and optional Firebase sync | JavaScript · Firebase · Capacitor |
+| [**PaceFuel**](https://github.com/chetanvhsk-wq/pace-fuel-main) | AI-assisted wellness app for food analysis, workout planning, recovery, and personal health tracking | React · TypeScript · Firebase · Gemini |
+| [**ClassVitals**](https://github.com/chetanvhsk-wq/ClassVitals) | RFID-gated classroom occupancy and multi-sensor monitoring system | C++ · Arduino · RFID · Sensors |
+| [**RailBook**](https://github.com/chetanvhsk-wq/RailBook) | Java Swing railway booking app with interactive seat selection, fare calculation, and e-ticket generation | Java · Swing |
 
 <details>
 <summary><b>More about the projects</b></summary>
 <br/>
 
-- **Classmark:** Started from an existing attendance tracker and rebuilt key parts around per-user cloud sync, privacy rules, export tools, and Android packaging. See the [project README](https://github.com/chetanvhsk-wq/classmark-attendance#readme).
-- **PaceFuel:** A team project. I worked on the AI integration layer for food analysis, coaching, and personalized wellness features. See the [project README](https://github.com/chetanvhsk-wq/pace-fuel-main#readme).
-- **ClassVitals:** Uses RFID as the classroom occupancy gate, then reads sensors to control and report room conditions. See the [project README](https://github.com/chetanvhsk-wq/ClassVitals#readme).
-- **RailBook:** Demonstrates Java OOP and event handling through seat selection, fare calculation, booking, and cancellation. See the [project README](https://github.com/chetanvhsk-wq/RailBook#readme).
+- **Classmark:** Evolved from an attendance tracker into a local-first web and Android app with optional Firebase authentication and per-user cloud sync, export tools, and an Android build workflow. See the [project README](https://github.com/chetanvhsk-wq/classmark-attendance#readme).
+- **PaceFuel:** A wellness ecosystem with AI food analysis, workout plan generation, coaching, and performance tracking. See the [project README](https://github.com/chetanvhsk-wq/pace-fuel-main#readme).
+- **ClassVitals:** Uses RFID as the classroom occupancy gate; when the room is occupied, sensor readings control the fan, light, and buzzer. See the [project README](https://github.com/chetanvhsk-wq/ClassVitals#readme).
+- **RailBook:** Demonstrates Java OOP, GUI event handling, seat selection, fare calculation, booking, and cancellation. See the [project README](https://github.com/chetanvhsk-wq/RailBook#readme).
 
 </details>
 
-### Tools I use
+### Tech & tools
 
 <p>
-  <a href="https://github.com/chetanvhsk-wq/RailBook" title="Java project: RailBook"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java — RailBook" /></a>
-  <a href="https://github.com/chetanvhsk-wq/ClassVitals" title="C++ project: ClassVitals"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++ — ClassVitals" /></a>
-  <a href="https://github.com/chetanvhsk-wq/classmark-attendance" title="JavaScript project: Classmark"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111" alt="JavaScript — Classmark" /></a>
-  <a href="https://github.com/chetanvhsk-wq/pace-fuel-main" title="TypeScript project: PaceFuel"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript — PaceFuel" /></a>
-  <a href="https://github.com/chetanvhsk-wq/pace-fuel-main" title="React project: PaceFuel"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React — PaceFuel" /></a>
-  <a href="https://github.com/chetanvhsk-wq/classmark-attendance" title="Firebase project: Classmark"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111" alt="Firebase — Classmark" /></a>
-  <a href="https://github.com/chetanvhsk-wq/ClassVitals" title="Arduino project: ClassVitals"><img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino — ClassVitals" /></a>
-  <a href="https://github.com/chetanvhsk-wq/classmark-attendance" title="Git project: Classmark"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git — Classmark" /></a>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <a href="https://github.com/chetanvhsk-wq/RailBook"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></a>
+  <a href="https://github.com/chetanvhsk-wq/ClassVitals"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /></a>
+  <a href="https://github.com/chetanvhsk-wq/classmark-attendance"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111" alt="JavaScript" /></a>
+  <a href="https://github.com/chetanvhsk-wq/pace-fuel-main"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://github.com/chetanvhsk-wq/pace-fuel-main"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /></a>
+  <a href="https://github.com/chetanvhsk-wq/classmark-attendance"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111" alt="Firebase" /></a>
+  <a href="https://github.com/chetanvhsk-wq/ClassVitals"><img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" /></a>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
