@@ -56,7 +56,7 @@ Building practical projects across web apps, AI, and connected devices.
   <a href="https://github.com/chetanvhsk-wq/pace-fuel-main"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /></a>
   <a href="https://github.com/chetanvhsk-wq/classmark-attendance"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111" alt="Firebase" /></a>
   <a href="https://github.com/chetanvhsk-wq/ClassVitals"><img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" /></a>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <a href="https://github.com/chetanvhsk-wq"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /></a>
 </p>
 
 ---
